@@ -45,6 +45,19 @@ Amazon is the leading sales channels.
 Most orders were successfully completed, with a smaller share of cancellations.
 
 
+Dashboard Preview
+
+<img width="1317" height="460" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/0d122aa8-559d-46c1-aefb-61c143ddd958" />
+
+
+Author
+
+Shruti Patil
+
+Email: pshruti.connect@gmail.com
+
+LinkedIn: www.linkedin.com/in/shrutipatil98
+
 
 
 
